@@ -69,22 +69,27 @@ The inventory optimization system achieved:
 - Develop a web dashboard for real-time monitoring and recommendations
 
 ## Output screens
+
+1. Home pages:
 ![Screenshot 2025-05-21 200625](https://github.com/user-attachments/assets/ba6e6df5-dd39-44c5-a5ef-27338c04451d)
 
 ![Screenshot 2025-05-21 200951](https://github.com/user-attachments/assets/1ea817cc-6e58-42ff-92f4-b793d912daa8)
 
+2. Data Analysis pages:
 ![Screenshot 2025-05-21 201109](https://github.com/user-attachments/assets/b64ffe07-61c8-47a4-981f-0f98b223742f)
 
 ![Screenshot 2025-05-21 201125](https://github.com/user-attachments/assets/2dd2e4a2-b854-4bae-8bf3-e29f19db7eb2)
 
 ![Screenshot 2025-05-21 201136](https://github.com/user-attachments/assets/2ce64301-2ddf-4150-8646-107664a9fdac)
 
+3. Forecasting pages:
 ![Screenshot 2025-05-21 201424](https://github.com/user-attachments/assets/d46dae11-dc91-4352-8c38-dd6b4be1967f)
 
 ![Screenshot 2025-05-21 201441](https://github.com/user-attachments/assets/6a4311db-2fad-46b0-ad73-387829666de4)
 
 ![Screenshot 2025-05-21 201448](https://github.com/user-attachments/assets/b91f5288-d460-4de4-bfe5-6867ef7f54a3)
 
+4. Inventory Optimization pages:
 ![Screenshot 2025-05-21 201503](https://github.com/user-attachments/assets/c149a6bf-010c-4733-b840-baacd41f24d5)
 
 ![Screenshot 2025-05-21 201511](https://github.com/user-attachments/assets/2a3aa325-8813-45a2-a0c3-17ea2af0a196)
@@ -93,6 +98,7 @@ The inventory optimization system achieved:
 
 ![Screenshot 2025-05-21 201527](https://github.com/user-attachments/assets/84b78222-9c2d-4747-a9bb-1baa6fb84df0)
 
+5. Simulation pages:
 ![Screenshot 2025-05-21 201543](https://github.com/user-attachments/assets/865fc2bc-2824-4d3d-bea6-99bd835a8a45)
 
 ![Screenshot 2025-05-21 201552](https://github.com/user-attachments/assets/5cd51dee-09d8-479a-a111-748ebbd0bd00)
@@ -101,6 +107,7 @@ The inventory optimization system achieved:
 
 ![Screenshot 2025-05-21 201608](https://github.com/user-attachments/assets/e97fd784-6cd9-4f90-9ea3-42a209a66924)
 
+6. Recommendations pages:
 ![Screenshot 2025-05-21 201621](https://github.com/user-attachments/assets/bd47986f-1b5e-48de-802a-a1cb005e8c05)
 
 ![Screenshot 2025-05-21 201629](https://github.com/user-attachments/assets/48f01cbb-eaeb-4157-b0d2-41a0b78b476e)
