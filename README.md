@@ -72,14 +72,11 @@ The inventory optimization system achieved:
 
 1. Home pages:
 ![Screenshot 2025-05-21 200625](https://github.com/user-attachments/assets/ba6e6df5-dd39-44c5-a5ef-27338c04451d)
-
 ![Screenshot 2025-05-21 200951](https://github.com/user-attachments/assets/1ea817cc-6e58-42ff-92f4-b793d912daa8)
 
 2. Data Analysis pages:
 ![Screenshot 2025-05-21 201109](https://github.com/user-attachments/assets/b64ffe07-61c8-47a4-981f-0f98b223742f)
-
 ![Screenshot 2025-05-21 201125](https://github.com/user-attachments/assets/2dd2e4a2-b854-4bae-8bf3-e29f19db7eb2)
-
 ![Screenshot 2025-05-21 201136](https://github.com/user-attachments/assets/2ce64301-2ddf-4150-8646-107664a9fdac)
 
 3. Forecasting pages:
